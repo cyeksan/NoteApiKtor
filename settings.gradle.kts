@@ -1,0 +1,1 @@
+rootProject.name = "com.csappgenerator.note-app-api"
