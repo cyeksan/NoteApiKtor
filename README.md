@@ -4,7 +4,7 @@
 
 <h3>Functions:</h3>
 
-* Add Note
+* Add Note 
 
 <img width="762" alt="Screen Shot 2022-06-17 at 14 03 17" src="https://user-images.githubusercontent.com/34041050/174306438-8a4845e0-c0b8-4475-b12d-17c07dbf02f2.png">
 
